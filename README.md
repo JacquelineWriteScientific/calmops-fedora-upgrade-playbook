@@ -1,0 +1,1 @@
+# calmops-fedora-upgrade-playbook
